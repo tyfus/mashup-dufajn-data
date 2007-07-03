@@ -1,4 +1,4 @@
-<gm:page title="Map Wiki" authenticate="true">
+<gm:page title="Oferta DATA" authenticate="true">
 
     <!--
        The map wiki application demonstrates the the ability to use the 
