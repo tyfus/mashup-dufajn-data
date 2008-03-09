@@ -24,7 +24,7 @@
          </gm:map>
       </td>
       <td valign="top" align="left" style="padding:20 20 20 0;">
-        <gm:list id="Locations" template="LocationsTemplate" data="${app}/markers">
+        <gm:list id="Locations" template="LocationsTemplate" data="${app}/markers" pagesize="250" >
           <gm:handleEvent src="mainMap"/>
         </gm:list>
       </td>
