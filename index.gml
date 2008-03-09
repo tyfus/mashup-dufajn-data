@@ -49,7 +49,7 @@
   </gm:template>
 
   <gm:template id="LocationsTemplate">
-    <table width="100%" class="gm-table" pagesize="250" >
+    <table width="100%" class="gm-table">
       <thead>
         <tr>
           <td width="40"></td>
