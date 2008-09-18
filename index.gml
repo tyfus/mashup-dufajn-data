@@ -16,7 +16,7 @@
 
   <table width="100%">
     <tr>
-      <td width="700px" style="padding:20px;">
+      <td valign="top" width="700px" style="padding:20px;">
         <gm:map id="mainMap" data="${Locations}" control="large"
             infotemplate="mapDetailTemplate" width="700px" height="500px" 
             lat="50.4307" lng="21.2800" zoom="10" maptypes="true" create="true">
